@@ -76,7 +76,7 @@
 		"translate": "translate-adapter",
 		"release": "release-script",
 		"dev-server": "dev-server",
-		"fix-and-build": "npm run lint:fix &&npx prettier --write . && npm run build"
+		"fix-and-build": "npm run lint:fix && npx prettier --write . && npm run build"
 	},
 	"nyc": {
 		"include": [
