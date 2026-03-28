@@ -45,7 +45,7 @@ const STATE_MAP = {
     name: "Target Temperature",
     desc: "Sets the target temperature of the device",
     write: true,
-    min: 16,
+    min: 10,
     max: 31,
     unit: "\xB0C"
   }),

@@ -42,6 +42,7 @@ The **mitsubishi-local-control** adapter integrates Mitsubishi Electric air cond
 
 ### **WORK IN PROGRESS**
 
+- (Black-Thunder) Minimum target temperature was updated to 10°C
 - (Black-Thunder) Adapter requires admin version >=7.6.20 now
 
 ### 1.0.5 (2026-01-13)
