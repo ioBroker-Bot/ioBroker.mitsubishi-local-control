@@ -22,7 +22,7 @@ __export(mitsubishiController_exports, {
 });
 module.exports = __toCommonJS(mitsubishiController_exports);
 var import_async_mutex = require("async-mutex");
-var import_buffer = require("buffer");
+var import_node_buffer = require("node:buffer");
 var import_fast_xml_parser = require("fast-xml-parser");
 var import_mitsubishiApi = require("./mitsubishiApi");
 var import_mitsubishiChangeset = require("./mitsubishiChangeset");
@@ -115,7 +115,7 @@ class MitsubishiController {
     const mergedProfiles = [...profiles1, ...profiles2];
     for (const hex of mergedProfiles) {
       try {
-        this.profileCode.push(import_buffer.Buffer.from(hex, "hex"));
+        this.profileCode.push(import_node_buffer.Buffer.from(hex, "hex"));
       } catch {
       }
     }
