@@ -4,6 +4,7 @@
 	"Friendly name of the device": "Anzeigename des Geräts",
 	"IP Address": "IP-Adresse",
 	"IP address of the Mitsubishi device": "IP-Adresse des Mitsubishi-Geräts",
+	"Name": "Name",
 	"Polling interval": "Abfrageintervall",
 	"mitsubishi-local-control adapter settings": "Adaptereinstellungen für mitsubishi-local-control"
 }

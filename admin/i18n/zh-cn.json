@@ -4,6 +4,7 @@
 	"Friendly name of the device": "设备的友好名称",
 	"IP Address": "IP地址",
 	"IP address of the Mitsubishi device": "三菱设备的IP地址",
+	"Name": "姓名",
 	"Polling interval": "轮询间隔",
 	"mitsubishi-local-control adapter settings": "mitsubishi-local-control的适配器设置"
 }
