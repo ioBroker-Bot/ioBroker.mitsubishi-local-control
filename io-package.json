@@ -121,15 +121,8 @@
 			"uk": "Локальне керування кондиціонерами Mitsubishi Electric через Wi-Fi (без хмари)",
 			"zh-cn": "通过 Wi-Fi 本地控制三菱电机空调（无需云端）"
 		},
-		"authors": [
-			"Black-Thunder <glwars@aol.de>"
-		],
-		"keywords": [
-			"template",
-			"automation",
-			"IoT",
-			"integration"
-		],
+		"authors": ["Black-Thunder <glwars@aol.de>"],
+		"keywords": ["template", "automation", "IoT", "integration"],
 		"licenseInformation": {
 			"type": "free",
 			"license": "MIT"
